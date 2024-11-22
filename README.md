@@ -1,4 +1,4 @@
-# Contenido de este repositorio:  
+# Contenido de este repositorio: <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 
 # Módulo 1: Estructura de datos avanzada
 - 📘 Introducción a estructura de datos
